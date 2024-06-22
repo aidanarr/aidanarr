@@ -1,4 +1,6 @@
-Hello! I'm Aida, junior front-end developer from Spain 🤍✨ Thanks for visting my GitHub profile!
+## Welcome! 🤍
+
+Hello! I'm Aida, junior front-end developer from Spain ✨ Thanks for visting my GitHub profile!
 
 - 🔭 I’m currently working on personal projects 💫
 - 🌱 I’m currently learning more React!!

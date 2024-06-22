@@ -9,6 +9,6 @@ Hello! I'm Aida, junior front-end developer from Spain ✨ Thanks for visting my
 
 ## Links
 
-- Play my first game: https://aidanarr.github.io/nana-s-quest-vn/
+- Play my first game: https://aidanarr.github.io/nanas-quest/
 - My LinkedIn: https://www.linkedin.com/in/aida-narros/
 - My art portfolio: https://www.doromaya.artstation.com/
